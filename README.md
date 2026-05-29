@@ -2,12 +2,6 @@
 
 A numerical optics simulation demonstrating Gaussian beam reconstruction and parameter estimation under realistic noise conditions.
 
-## Key Result
-
-The model successfully reconstructs Gaussian beam parameters from noisy data.
-
-![Gaussian Fit](https://user-images.githubusercontent.com/placeholder/gaussian_fit.png)
-
 ## Overview
 
 This project simulates a Gaussian laser beam intensity profile and demonstrates how experimental parameters can be extracted from noisy measurement data using nonlinear curve fitting techniques. The workflow mirrors real optical beam characterization methods used in photonics and experimental physics.
